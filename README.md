@@ -25,23 +25,23 @@ Desarrollar una aplicación que nos muestre el ingresp de cualquier Persona que 
 | 1  |   ESP32    | El módulo ESP32 es una solución de Wi-Fi/Bluetooth todo en uno, integrada y certificada que proporciona no solo la radio inalámbrica, sino también un procesador integrado con interfaces para conectarse con varios periféricos|![image](https://user-images.githubusercontent.com/99991865/192933367-82d60a6b-83a0-4d76-9aa7-742fb42d2d3c.png)|   1      |   165     
 | 2  |Protoboard  |es un tablero con orificios que se encuentran conectados eléctricamente entre sí de manera interna, habitualmente siguiendo patrones de líneas, en el cual se pueden insertar componentes electrónicos, cables para el armado|![image](https://user-images.githubusercontent.com/99991865/192933683-d1955de9-b1fa-4063-8218-b822c8b7eedf.png)|   1      |     110        |
 | 3 |Cables     |sirve para conectar todos los compenetes a la protoboard|![image](https://user-images.githubusercontent.com/99991865/192934122-6938a1d7-55a6-4caa-85c9-80a27cf06301.png)|   5      |    55        |
-| 4 |Gravity: Digital Weight Sensor     |sirve para capturar el peso de todos los materiales encima de el |![image](https://user-images.githubusercontent.com/99991865/217880977-53f521d4-0eec-4b56-b4bb-4238ed6366e4.png)|   1    |    303.46      |
+| 4 |Sensor de movimiento    |sirve para detectar si pasa una persona al plantel |![image](https://user-images.githubusercontent.com/99991865/217943615-be8ebd0f-887b-434f-91d3-f6254cd30d2b.png)
+|   1    |    46      |
 | 5 | Pantalla Led    |sirve para mostrar el peso de todos los materiales encima de el |![image](https://user-images.githubusercontent.com/99991865/217882737-091d4989-5d35-4005-9cce-7e729f76f608.png)|   1    |    200      |
 
 ## Epicas del proyecto (Minimo debe de haber una épica por integrante de equipo)
-- El proyecto debe detectar si hay pueso algo encima
-- El proyecto debe pesar adecuadamente el materia que ponga encima de el
-- El proyecto debe dar una alerta con la ayuda de los leds cuando se rebasa cierto limite del peso
-- El proyecto debe dar una alerta en la aplicación con los detalles acerca del peso detectado
+- El proyecto debe detectar si pasa algo
+- El proyecto debe dar los datos de la persona correctamente
+- El proyecto debe dar una alerta con la ayuda de los leds
+- El proyecto debe dar una alerta en la aplicación con los detalles acerca de la persona detectada
 
 ## Tabla de historias de usuario
 | Id | Historia de usuario | Prioridad | Estimación | Como probarlo | Responsable |
 |----|---------------------|-----------|------------|---------------|-------------|
-| 1  | Funcionalidad del proyecto                    |  Alta         | 0.5           |Realizar prubas correspondientes con algun materia y verificar que toma el peso de dicho objeto.            |Integrantes de equipo             |
-| 2  |Funcionalidad del sensor de peso  | Alta          | 0.5          | Realizar prueba con algún gas posible de verificar el funcionamiento del mismo.             | Integrantes de equipo |
-| 3  | Funcionalidad de la pantalla          | Media         |  0.3          | Marcar el peso del materian en la pantalla             |   integrantes del equipo          |
+| 1  | Funcionalidad del proyecto                    |  Alta         | 0.5           |Realizar prubas correspondientes con algun materia y verificar que pasa la persona            |Integrantes de equipo             |
+| 2  |Funcionalidad del sensor demovimiento  | Alta          | 0.5          | Realizar prueba con algúna persona para verficar el funcionamineto de este           | Integrantes de equipo |
+| 3  | Funcionalidad de la pantalla          | Media         |  0.3          | Marcar los datos de  la personaen la pantalla             |   integrantes del equipo          |
 
 ## Prototipo en dibujo
-![image](https://user-images.githubusercontent.com/99991865/217930030-95d1b87b-7e5f-4ade-9730-78373366e5a6.png)
 
 
