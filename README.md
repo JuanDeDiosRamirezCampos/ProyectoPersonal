@@ -2,17 +2,15 @@
 
 ## Integrantes
 - Juan de Dios Ramirez Campos
-- Miguel Angel Anastacio Nava
-- Miguel Angel Jaime Garcia
-- Filiberto Navarro Grifaldo
 
 ## Objetivo general
-Desarrollar una aplicación que nos muestre el peso de cualquier material que quiera, mostrando así un mensaje en la aplicación el cual diga cual es el peso del material que ha querido saber la persona, además de dar una recompensa dependio de la cantidad.
+Desarrollar una aplicación que nos muestre el ingresp de cualquier Persona que dese ingresar al plantel monstrando el nombre de la persona
+
 ### Objetivos específicos
-- 1.- Interpretar esquemas eléctricos  yrealizar el montaje a partir de este,utilizando para ello distintos materiales.
-- 2.- Conocer y utilizar los códigos deArduino Uno para el óptimofuncionamiento del la pesa.
+- 1.- Interpretar esquemas eléctricos  y realizar el montaje a partir de este,utilizando para ello distintos materiales.
+- 2.- Conocer y utilizar los códigos deArduino Uno para el óptimofuncionamiento del la check in.
 - 3.- Conocer los principios, elementos y aplicaciones básicas de distintos sistemas de control eléctricos.
-- 4.- Representar a través de un sensor de peso la medición del material.
+- 4.- Representar a través de un sensor si ingreso la persona al plantel.
 
 ## Tabla de Software utilizado
 | id |  Software          |  Versión  |  Tipo  |
